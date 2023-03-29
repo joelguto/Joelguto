@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joelguto
+- 👋 Hi, I’m @joel_guto
 - 👀 I’m interested in back-end programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on multiplatform api integration
